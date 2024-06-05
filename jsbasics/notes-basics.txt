@@ -1,0 +1,4 @@
+1. primitive datatypes used stack memory to store it.
+2. Whatever you primitive datatype declare a variable Stack memory will save a copy of it.
+3. If a Non primitive datatype is save in a heap then a reference of it will be saved
+   
